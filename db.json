@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Aaruyirae",
+      "singer": "A. R. Rahman",
+      "genre": "Tamil",
+      "imgUrl": "https://th.bing.com/th/id/OIP.Z_lXQ61vBcYcEkFpfSWYDwHaEK?w=299&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+      "songUrl": "/songs/Aaruyirae.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Butta Bomma",
+      "singer": "Armaan Malik",
+      "genre": "Telugu / Filmi",
+      "imgUrl": "https://th.bing.com/th/id/OIP.5HqHbrceIisgHGcsy9f5AQHaEK?w=298&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+      "songUrl": "/songs/Butta_Bomma.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Chaleya",
+      "singer": "Arijit Singh, Shilpa Rao",
+      "genre": "Bollywood / Romance",
+      "imgUrl": "https://www.bing.com/images/search?view=detailV2&ccid=kgm%2bdGio&id=DC8C3DD2663AD9AE1FE496D685EF7A5772EDF299&thid=OIP.kgm-dGioHNLszyS_EKOtNgHaEK&mediaurl=https%3a%2f%2fgumlet.assettype.com%2ffreepressjournal%2f2023-08%2f1a4abc9b-2303-4058-a897-cf1a780b918b%2fUntitled_design___2023_08_14T124412_184.jpg&exph=675&expw=1200&q=Chaleya+song+image&FORM=IRPRST&ck=E5AC497DF6DED91DCF0FAF5AF3B07CE8&selectedIndex=1&itb=0",
+      "songUrl": "/songs/chaleya.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Cheap Thrills",
+      "singer": "Sia",
+      "genre": "Pop / International",
+      "imgUrl": "https://th.bing.com/th/id/OIP.VPqTFSZykJiQDuuW0Sj6kAHaEK?w=267&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+      "songUrl": "/songs/cheap_thrills.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Golden",
+      "singer": "kpop",
+      "genre": "Kpop / International",
+      "imgUrl": "https://www.bing.com/images/search?view=detailV2&ccid=4xQcEpPR&id=3E3F047C4E02557B85AB03E2E3D095969C364E98&thid=OIP.4xQcEpPRiY2q1X0-tenWOwHaEK&mediaurl=https%3a%2f%2fimg.youtube.com%2fvi%2fyebNIHKAC4A%2fmaxresdefault.jpg&exph=720&expw=1280&q=Golden+song+image&FORM=IRPRST&ck=8B6B9AAC49FB873C084325CFD9D0239E&selectedIndex=4&itb=0",
+      "songUrl": "/songs/golden.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Jimikki Kammal",
+      "singer": "Vineeth Sreenivasan, Renjith Unni",
+      "genre": "Malayalam / Folk-Pop",
+      "imgUrl": "https://www.bing.com/images/search?view=detailV2&ccid=PzIn3fpw&id=1D5DB7DFC9AD04F1068A2FD41F5D63B9F39DF864&thid=OIP.PzIn3fpw49BPmQYHWnPaNQHaD2&mediaurl=https%3a%2f%2fonlookersmedia.in%2fwp-content%2fuploads%2f2018%2f04%2fjimikki-kammal-storms-past-75-million-views-third-song-south-india-achieve-feat.jpg&exph=780&expw=1500&q=Jimikki+Kammalsong+image&FORM=IRPRST&ck=A893A69345ACF3D3DA5736410BEB2836&selectedIndex=2&itb=0",
+      "songUrl": "/songs/Jimikki_Kammal.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Monica",
+      "singer": "Anirudh",
+      "genre": "Pop / International",
+      "imgUrl": "https://th.bing.com/th/id/OIP.mv13UUiWkPaRo_vZhBLI3wHaEK?w=310&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+      "songUrl": "/Monica.mp3"
+    }
+  ],
+  "favorites": [],
+  "playlist": []
+}
